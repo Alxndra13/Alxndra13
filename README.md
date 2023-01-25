@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **aleksandrasobiesiak.2@gmail.com**
 
+- 🐺 I'm a huge Witcher fan
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandra-sobiesiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandra-sobiesiak" height="30" width="40" /></a>
