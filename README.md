@@ -1,3 +1,5 @@
+# Hi, I'm Ola
+
 ### 💫 About Me:
 - 🎓 AGH UST 2nd year Computer Science Student<br>
 - 👩‍💻 I'm currently working on **Eat&Live** project<br>
