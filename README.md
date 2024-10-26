@@ -14,6 +14,7 @@
 |**Project**|**Description**|**Tech Stack**|
 |:---|:---|:---|
 |[Rewards Manager](https://github.com/Alxndra13/rewards-manager)|Desktop app for managing quizzes generated from Microsoft Forms. | Java, Spring, JavaFX, H2 |
+|[EnrollMe](https://github.com/Alxndra13/enrollme)|Web app for organizing enrollments for academic students.|Java, Spring, React, Typescript|
 |[Restaurant Database](https://github.com/Alxndra13/database_restaurant)|3-person database project for university. | Microsoft SQL Server |
 |[Eat&Live](https://github.com/Alxndra13/eat-live)|Web app for counting calories, soon to be reworked. | Django, Python |
 |[Evolutionary Generator](https://github.com/Alxndra13/evolutionary-generator)|2-person small Java project.|Java, JavaFX|
