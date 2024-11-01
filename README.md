@@ -1,7 +1,7 @@
 # Hi, I'm Ola
 
 ### 💫 About Me:
-- 🎓 AGH UST 3rd year Computer Science Student<br>
+- 🎓 AGH UST 4th year Computer Science Student<br>
 - 🚀 I'm actively expanding my knowledge in **Spring** and **React**<br>
 - 👩‍💻  Software Engineer Intern at **Akamai** <br>
 - 📫 How to reach me **aleksandrasobiesiak.2@gmail.com** or [**linkedin**](https://www.linkedin.com/in/aleksandra-sobiesiak/)<br>
